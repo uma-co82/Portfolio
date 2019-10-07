@@ -39,6 +39,6 @@ So people rushed to get together and thought that the matching rate would increa
 #### Production period
 2~3 month
 
-#### This App used [Shupple-api](https://github.com/uma-co82/Shupple-api).
+#### This App use [Shupple-api](https://github.com/uma-co82/Shupple-api).
 This is a new type of matching app.
 [App Link]()
