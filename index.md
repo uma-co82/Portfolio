@@ -26,7 +26,7 @@ However, matching will expire in 2 days.
 So people rushed to get together and thought that the matching rate would increase.
 
 #### AWS
-![top-page](https://github.com/uma-co82/U-a_Portfolio/blob/master/AWS.png)
+![top-page](https://github.com/uma-co82/U-a_Portfolio/blob/master/AWS.png?raw=true)
 
 # [Shupple-iOS (private repo)]()
 
