@@ -69,6 +69,9 @@ The restaurant can tell the user the seat situation in real time.
 The user can check the seat status of the store in real time, and can push the seat that is currently vacant.
 We actually had the restaurant cooperate and operated it.
 
+#### AWS
+ElasticBeansTalk
+
 ## Environments
 https://imanomu.im/
 
