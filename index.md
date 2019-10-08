@@ -53,6 +53,7 @@ This is a new type of matching app.
 ## What Run
 * Ruby
 * Rails
+* mysql
 * AWS
 
 ## App Detail
@@ -65,3 +66,24 @@ This is a new type of matching app.
 The restaurant can tell the user the seat situation in real time.
 The user can check the seat status of the store in real time, and can push the seat that is currently vacant.
 We actually had the restaurant cooperate and operated it.
+
+#### Environments
+https://imanomu.im/
+
+# [IMANOMU-demo](https://github.com/uma-co82/IMANOMU-demo)
+
+<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/imanomu-demo.png?raw=true" align="right"
+     title="Size Limit logo by Anton Lovchikov" width="" height="178">
+     
+## What Run
+* Swift
+
+## App Detail
+
+#### Production period
+1 week
+
+#### This is a demo app for IMANOMU.
+It is made for the store and can manage the seat.
+We used this app to test vacancy management in actual stores.
+
