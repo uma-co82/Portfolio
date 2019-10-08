@@ -45,9 +45,8 @@ This is a new type of matching app.
 [App Link]()
 
 #### Screen Shot
-|||||
-|---|---|---|---|
-|![](https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple-1.png?raw=true)|![](https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple2.png?raw=true)|![](https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple3.png?raw=true)|![](https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple4.png?raw=true)|
+
+<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple-1.png?raw=true" title="Size Limit logo by Anton Lovchikov" width="" height="300"> <img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple2.png?raw=true"  title="Size Limit logo by Anton Lovchikov" width="" height="300"> <img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple3.png?raw=true" title="Size Limit logo by Anton Lovchikov" width="" height="300"> <img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple4.png?raw=true" title="Size Limit logo by Anton Lovchikov" width="" height="300">
 
 # [IMANOMU-mvp-app](https://github.com/uma-co82/IMANOMU-mvp-app)
 
