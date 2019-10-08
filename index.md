@@ -55,6 +55,9 @@ This is a new type of matching app.
 ## What Run
 * Ruby
 * Rails
+* HTML
+* CSS
+* JavaScript
 * mysql
 * AWS
 
@@ -98,7 +101,7 @@ We used this app to test vacancy management in actual stores.
      title="Size Limit logo by Anton Lovchikov" width="" height="178">
 
 ## What Run
-* js
+* JavaScript
 * chrome extension
 
 ## App Detail
