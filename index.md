@@ -42,6 +42,8 @@ So people rushed to get together and thought that the matching rate would increa
 
 #### This App use [Shupple-api](https://github.com/uma-co82/Shupple-api).
 This is a new type of matching app.
+
+**2019/10/18 Release schedule**
 [App Link]()
 
 #### Screen Shot
