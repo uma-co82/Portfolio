@@ -45,13 +45,25 @@ This is a new type of matching app.
 [App Link]()
 
 #### Screen Shot
-<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple-1.png?raw=true" align="left"
-     title="Size Limit logo by Anton Lovchikov" width="" height="300">
-<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple2.png?raw=true" align="left"
-     title="Size Limit logo by Anton Lovchikov" width="" height="300">
-<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple3.png?raw=true" align="left"
-     title="Size Limit logo by Anton Lovchikov" width="" height="300">
-<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple4.png?raw=true" align="left"
-     title="Size Limit logo by Anton Lovchikov" width="" height="300">
-     
-#### hoge
+<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple-1.png?raw=true" align="left" title="Size Limit logo by Anton Lovchikov" width="" height="300">
+<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple2.png?raw=true" align="left" title="Size Limit logo by Anton Lovchikov" width="" height="300">
+<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple3.png?raw=true" align="left" title="Size Limit logo by Anton Lovchikov" width="" height="300">
+<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/shupple4.png?raw=true" align="left" title="Size Limit logo by Anton Lovchikov" width="" height="300">
+
+# [IMANOMU-mvp-app](https://github.com/uma-co82/IMANOMU-mvp-app)
+
+## What Run
+* Ruby
+* Rails
+* AWS
+
+## App Detail
+
+#### Production period
+1 month
+
+#### This is a web application for restaurants.
+
+The restaurant can tell the user the seat situation in real time.
+The user can check the seat status of the store in real time, and can push the seat that is currently vacant.
+We actually had the restaurant cooperate and operated it.
