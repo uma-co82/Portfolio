@@ -37,6 +37,7 @@ So people rushed to get together and thought that the matching rate would increa
 
 ## What Run
 * iOS
+* Swift
 * Firebase
 
 ## App Detail
