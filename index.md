@@ -6,10 +6,15 @@
 ## What Run
 
 * Go 1.12.3
+#### FW
 * gin
+#### ORM
 * gorm
+#### Develop
 * Docker
+#### DB
 * mysql
+#### Infra
 * AWS
 
 ## App Detail
