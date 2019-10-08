@@ -67,7 +67,7 @@ The restaurant can tell the user the seat situation in real time.
 The user can check the seat status of the store in real time, and can push the seat that is currently vacant.
 We actually had the restaurant cooperate and operated it.
 
-#### Environments
+## Environments
 https://imanomu.im/
 
 # [IMANOMU-demo](https://github.com/uma-co82/IMANOMU-demo)
@@ -87,3 +87,20 @@ https://imanomu.im/
 It is made for the store and can manage the seat.
 We used this app to test vacancy management in actual stores.
 
+# [LGTM](https://github.com/uma-co82/LGTM)
+
+<img src="https://lh3.googleusercontent.com/dTQmJ5qxlhpvUOrLAfjvMAGITH0sNBsSUx3-_P1UuPKlGFUI96mhJZO0nPnqkpXn8nhL7KE-Kg=w640-h400-e365" align="right"
+     title="Size Limit logo by Anton Lovchikov" width="" height="178">
+
+## What Run
+* js
+* chrome extension
+
+## App Detail
+Everyone, is development in progress?
+You have to overcome many problems before releasing.
+
+Chrome Extension ! ! !
+
+## Environments
+[https://chrome.google.com/webstore/detail/lgtm/ehkjindamlinbodfpafobgoipdhladjc](https://chrome.google.com/webstore/detail/lgtm/ehkjindamlinbodfpafobgoipdhladjc)
