@@ -25,6 +25,9 @@ Matching partner is selected according to the conditions. Matching can be achiev
 However, matching will expire in 2 days.
 So people rushed to get together and thought that the matching rate would increase.
 
+#### My part
+99%
+
 #### AWS
 ![top-page](https://github.com/uma-co82/U-a_Portfolio/blob/master/AWS.png?raw=true)
 
@@ -42,6 +45,9 @@ So people rushed to get together and thought that the matching rate would increa
 
 #### This App use [Shupple-api](https://github.com/uma-co82/Shupple-api).
 This is a new type of matching app.
+
+#### My part
+100%
 
 **2019/10/18 Release schedule**
 [App Link]()
@@ -72,6 +78,9 @@ The restaurant can tell the user the seat situation in real time.
 The user can check the seat status of the store in real time, and can push the seat that is currently vacant.
 We actually had the restaurant cooperate and operated it.
 
+#### My part
+90%
+
 #### AWS
 ElasticBeansTalk
 
@@ -95,6 +104,9 @@ https://imanomu.im/
 It is made for the store and can manage the seat.
 We used this app to test vacancy management in actual stores.
 
+#### My part
+100%
+
 # [LGTM](https://github.com/uma-co82/LGTM)
 
 <img src="https://lh3.googleusercontent.com/dTQmJ5qxlhpvUOrLAfjvMAGITH0sNBsSUx3-_P1UuPKlGFUI96mhJZO0nPnqkpXn8nhL7KE-Kg=w640-h400-e365" align="right"
@@ -109,6 +121,9 @@ Everyone, is development in progress?
 You have to overcome many problems before releasing.
 
 Chrome Extension ! ! !
+
+#### My part
+50%
 
 ## Environments
 [https://chrome.google.com/webstore/detail/lgtm/ehkjindamlinbodfpafobgoipdhladjc](https://chrome.google.com/webstore/detail/lgtm/ehkjindamlinbodfpafobgoipdhladjc)
@@ -127,3 +142,6 @@ Chrome Extension ! ! !
 ## App Detail
 A sample application for practicing the go language.
 Includes general CRUD processing.
+
+#### My part
+100%
