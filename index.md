@@ -89,7 +89,7 @@ https://imanomu.im/
 
 # [IMANOMU-demo](https://github.com/uma-co82/IMANOMU-demo)
 
-<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/imanomu-demo.png?raw=true" align="right"
+<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/imanomu-demo.png?raw=true"
      title="Size Limit logo by Anton Lovchikov" width="" height="178">
      
 ## What Run
