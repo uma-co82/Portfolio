@@ -145,3 +145,21 @@ Includes general CRUD processing.
 
 #### My part
 100%
+
+# [gorutine-practice](https://github.com/uma-co82/gorutine-practice)
+
+<img src="https://github.com/uma-co82/U-a_Portfolio/blob/master/gorutine.png?raw=true"
+     title="Size Limit logo by Anton Lovchikov" width="" height="178">
+     
+## What Run
+* Go
+
+## App Detail
+
+#### This is a goroutine practice repo.
+
+Asynchronous processing practice with goroutine
+
+#### My part
+100%
+
