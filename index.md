@@ -47,7 +47,8 @@ This is a new type of matching app.
 100%
 
 **2019/10/18 Release schedule**
-[App Link]()
+
+**[App Link](https://apps.apple.com/us/app/shupple/id1483324740?l=ja&ls=1)**
 
 #### Screen Shot
 
