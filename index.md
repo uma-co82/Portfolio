@@ -126,23 +126,6 @@ Chrome Extension ! ! !
 ## Environments
 [https://chrome.google.com/webstore/detail/lgtm/ehkjindamlinbodfpafobgoipdhladjc](https://chrome.google.com/webstore/detail/lgtm/ehkjindamlinbodfpafobgoipdhladjc)
 
-# [Golang CRUD Sample App](https://github.com/uma-co82/golang-sample-App)
-
-<img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" align="right"
-     title="Size Limit logo by Anton Lovchikov" width="" height="178">
-
-## What Run
-
-* Go
-* gin
-* mysql
-
-## App Detail
-A sample application for practicing the go language.
-Includes general CRUD processing.
-
-#### My part
-100%
 
 # [gorutine-practice](https://github.com/uma-co82/gorutine-practice)
 
