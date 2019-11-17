@@ -1,4 +1,4 @@
-# [Shupple-api](https://github.com/uma-co82/Shupple-api)
+# [Shupple-api-mvp](https://github.com/uma-co82/Shupple-api)
 
 ## What Run
 
@@ -28,7 +28,7 @@ So people rushed to get together and thought that the matching rate would increa
 #### AWS
 ![shupple-AWS](https://github.com/uma-co82/U-a_Portfolio/blob/master/AWS.png?raw=true)
 
-# [Shupple-iOS (private repo)](https://github.com/uma-co82/Shupple)
+# [Shupple-iOS-mvp (private repo)](https://github.com/uma-co82/Shupple)
 
 ## What Run
 * iOS
